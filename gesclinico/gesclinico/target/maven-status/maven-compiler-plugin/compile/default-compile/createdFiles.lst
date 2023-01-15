@@ -1,0 +1,8 @@
+net/nkmtechnology/gesclinico/GesclinicoApplication.class
+net/nkmtechnology/gesclinico/dbmanager/Pattierspayant.class
+net/nkmtechnology/gesclinico/consumer/PatientService.class
+net/nkmtechnology/gesclinico/dbmanager/Utilisateur.class
+net/nkmtechnology/gesclinico/interfacemanager/PatientInterface.class
+net/nkmtechnology/gesclinico/controllermanager/PatientManager.class
+net/nkmtechnology/gesclinico/dbmanager/Tierspayant.class
+net/nkmtechnology/gesclinico/dbmanager/Patient.class

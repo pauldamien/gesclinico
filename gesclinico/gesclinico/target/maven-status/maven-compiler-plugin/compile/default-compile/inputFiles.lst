@@ -1,0 +1,8 @@
+/home/lezekie/dev/projetWeb/gesclinico/src/main/java/net/nkmtechnology/gesclinico/interfacemanager/PatientInterface.java
+/home/lezekie/dev/projetWeb/gesclinico/src/main/java/net/nkmtechnology/gesclinico/dbmanager/Utilisateur.java
+/home/lezekie/dev/projetWeb/gesclinico/src/main/java/net/nkmtechnology/gesclinico/controllermanager/PatientManager.java
+/home/lezekie/dev/projetWeb/gesclinico/src/main/java/net/nkmtechnology/gesclinico/dbmanager/Pattierspayant.java
+/home/lezekie/dev/projetWeb/gesclinico/src/main/java/net/nkmtechnology/gesclinico/dbmanager/Tierspayant.java
+/home/lezekie/dev/projetWeb/gesclinico/src/main/java/net/nkmtechnology/gesclinico/GesclinicoApplication.java
+/home/lezekie/dev/projetWeb/gesclinico/src/main/java/net/nkmtechnology/gesclinico/dbmanager/Patient.java
+/home/lezekie/dev/projetWeb/gesclinico/src/main/java/net/nkmtechnology/gesclinico/consumer/PatientService.java
